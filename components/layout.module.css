@@ -1,0 +1,27 @@
+.containerHome {
+    max-width: 36rem;
+    padding: 0 1rem;
+    margin: 3rem auto 6rem;
+  }
+
+  .container {
+    max-width: 48rem;
+    padding: 0 1rem;
+    margin: 3rem auto 6rem;
+  }
+
+  .containerSm{
+    max-width: 24rem;
+    /* padding: 0 1rem; */
+    margin: 1rem auto 1rem;
+  }
+
+  .header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .backToHome {
+    margin: 3rem 0 0;
+  }
