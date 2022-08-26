@@ -47,7 +47,7 @@ export default function Home() {
         <p>
         🏫 &nbsp; A photography and videography community at Cornell
         <br></br>
-        📷 &nbsp; a family of people who want to capture to moment
+        📷 &nbsp; a family of people who want to capture the moment
 
         </p>
 
