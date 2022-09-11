@@ -53,6 +53,8 @@ export default function Home() {
 
         <h3>Join us</h3>
         <p>
+        👨🏻‍🎓 fill out the <Link href="https://forms.gle/1HVCXM26ww1xAd8G6">Fall 2022 interest form! </Link>
+        <br></br>
         🛰️ &nbsp; join our <Link href="https://join.slack.com/t/captureatcornell/shared_invite/zt-1em8aeiet-ZT5KQTzZ0QhWlB3ddscQ5w">slack here</Link>
         <br></br>
         🔩 &nbsp; request a collab with us through <Link href="https://forms.gle/P8Z27pbstWuK47rm9"> this google form</Link>
