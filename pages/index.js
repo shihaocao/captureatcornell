@@ -48,7 +48,11 @@ export default function Home() {
         🏫 &nbsp; A photography and videography community at Cornell
         <br></br>
         📷 &nbsp; a family of people who want to capture the moment
+        </p>
 
+        <h3>Check out our instagram!</h3>
+        <p>
+        🎥 &nbsp; <Link href="https://www.instagram.com/captureatcornell?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">follow us</Link> to stay in touch with collabs and events!
         </p>
 
         <h3>Join us</h3>
