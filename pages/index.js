@@ -52,7 +52,7 @@ export default function Home() {
 
         <h3>Check out our instagram!</h3>
         <p>
-        🎥 &nbsp; <Link href="https://www.instagram.com/captureatcornell?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">follow us</Link> to stay in touch with collabs and events!
+        🎥 &nbsp; <Link href="https://www.instagram.com/captureatcornell?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">follow us on ig</Link> to stay in touch with collabs and events!
         </p>
 
         <h3>Join us</h3>
