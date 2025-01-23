@@ -62,6 +62,8 @@ export default function Home() {
         🛰️ &nbsp; join our <Link href="https://join.slack.com/t/captureatcornell/shared_invite/zt-2t6olsu44-hgMf8Iu6AxlTHjU6WT~LRA">slack here</Link>
         <br></br>
         🔩 &nbsp; request a collab with us through <Link href="https://forms.gle/CtzudiCehoRwp5kM8"> this google form</Link>
+        <br></br>
+        👥 &nbsp; join our <Link href="https://cornell.campusgroups.com/CaptureC/club_signup"> campus groups</Link>
         </p>
 
         <h3>Got any other questions?</h3>
